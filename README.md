@@ -1,4 +1,4 @@
-# pupr1
+# pupr
 
 > My superb Nuxt.js project
 
